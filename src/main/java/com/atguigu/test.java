@@ -17,6 +17,5 @@ public class test {
         System.out.println("hello world");
         System.out.println("hot-flix");
         System.out.println("master");
-        System.out.println("hot-flix1");
     }
 }
