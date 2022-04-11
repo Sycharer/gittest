@@ -18,5 +18,6 @@ public class test {
         System.out.println("hot-flix");
         System.out.println("master");
         System.out.println("master1");
+        System.out.println("master2");
     }
 }
